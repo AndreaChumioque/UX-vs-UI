@@ -14,23 +14,30 @@
 |                                                                                                | Hover que activa una barra de compartir en redes en los artículos del blog. |
 |                                                                                                | Hover que aplica subrayado a los links.                                     |
 
+-----------
 ![Página principal Laboratoria](assets/images/Diapositiva1.JPG)
 Página principal Laboratoria
 
+-----------
 ![Página a la que redirecciona el botón ESTUDIANTES](assets/images/Diapositiva2.JPG)
 Página a la que redirecciona el botón ESTUDIANTES
 
+-----------
 ![Página a la que redirecciona el botón EMPRESAS](assets/images/Diapositiva3.JPG)
 Página a la que redirecciona el botón EMPRESAS
 
+-----------
 ![Mostrar/ocultar barra de redes sociales](assets/images/Diapositiva4.JPG)
 Mostrar/ocultar barra de redes sociales
 
+-----------
 ![Sombra interior en los botones al ser clickeados](assets/images/Diapositiva5.JPG)
 Sombra interior en los botones al ser clickeados
 
+-----------
 ![Hover que muestra barra de compartir](assets/images/Diapositiva6.JPG)
 Hover que muestra barra de compartir
 
+-----------
 ![Hover que subraya links](assets/images/Diapositiva7.JPG)
 Hover que subraya links
